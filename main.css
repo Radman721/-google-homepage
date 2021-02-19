@@ -87,7 +87,7 @@ img {
 }
 
 .record {
-  background: url(/imges/record-logo.png);
+  background: url(imges/record-logo.png);
   background-size: cover;
   position: absolute;
   width: 25px;
